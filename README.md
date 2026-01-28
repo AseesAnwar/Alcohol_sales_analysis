@@ -145,6 +145,22 @@ Due to incomplete data coverage, the following analyses are **NOT reliable:**
 
 ---
 
+## Key Visualisations
+
+### Monthly Revenue Trend (2019)
+![Monthly Revenue](monthly_revenue vs. MONTH.png)
+
+### Category Revenue Breakdown
+![Category Breakdown](total_revenue and pct_of_total.png)
+
+### Top Products Revenue
+![Top Products](revenue.png)
+
+### Channel Performance
+![Channel Split](chart.png)
+
+---
+
 ## Business Recommendations
 
 ### 1. Focus on Wholesale Excellence
